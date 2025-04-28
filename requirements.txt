@@ -1,0 +1,20 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+catboost
+optuna
+matplotlib
+seaborn
+plotly
+joblib
+flask
+tqdm
+ipykernel
+<<<<<<< HEAD
+jupytext
+doc2txt
+=======
+jupytext
+doc2txt
+>>>>>>> f0ac0ca (проект)
